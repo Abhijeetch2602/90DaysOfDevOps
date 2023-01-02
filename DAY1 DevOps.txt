@@ -1,0 +1,46 @@
+what is DevOps?
+DevOps is a collabration between devlopment and It opeation to make software production  and development in automated & repetable way. DevOps is a combiation of Devlopment and operation. 
+what is automation,scaling,infrastructure?
+DevOps requires fast processing and fast testing. And this is where automation comesin it empowers DevOps to support multiple projects and pipelines in a cost-effective way. And scaled devops means Scaling in DevOps is characterized as an automation-driven environment where developers or enterprises can adopt DevOps culture and choose the right technologies to scale their business growth.And in infrastructure DevOps helps in the automation of infrastructure. This enables the operations team and the developers to manage, facilitate, and monitor the resources automatically. This saves the hassle and effort of having to do everything manually, which can slow down the process and cause an organization to function inefficiently.
+Examples of infrastructure-as-code tools include AWS CloudFormation, Red Hat Ansible, Chef, Puppet, SaltStack and HashiCorp Terraform. Some tools rely on a domain-specific language (DSL)
+-Anyone Can Learn DevOps
+-Fat Paycheck
+-Easy To Get A Job
+-Fast Career Growth
+-Fewer Software Failure
+-Faster Releases
+-Exposure To Various Trending Tools and Technologies
+-Separate Yourself From The Crowd
+-Become More Valuable To The Company
+-better understanding Of The SDLC
+
+what is SDLC?
+The Software Development Life Cycle (SDLC) is the software development world’s spellcheck. It can flag errors in software creation before they’re discovered in successive stages — and would cost a lot more to fix. But it’s much more than that: SDLC can also lay out a plan for getting everything right the first time.
+The SDLC process involves several distinct stages, including planning, analysis, design, building, testing, deployment and maintenance. 
+Since DevOps involves various stages/ phases:
+
+Source Code Management
+Continuous Integration
+Continuous Testing
+Configuration Management
+Contanerization
+Continuous Monitoring
+a) Become More Valuable To The Company:
+Most of the companies for cost optimization purpose are looking for people with wide variety of skills.
+With DevOps we become more valuable to the company, since we can know various tools and technologies used for development,testing and deployment. 
+
+b)Separate Yourself From The Crowd:
+With DevOps knowledge you can offer something unique to any organization. This gives you an edge over other people in an interview.
+
+c)xposure To Various Trending Tools And Technologies:
+DevOps involves various phases, and for each phase there are multiple tools available.
+        Git
+        Jenkins
+        Selenium
+        Docker
+        Kubernetes
+        Puppet
+        Chef
+        Ansible
+        Nagios
+ 
